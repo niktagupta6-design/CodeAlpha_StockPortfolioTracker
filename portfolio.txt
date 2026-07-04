@@ -1,0 +1,25 @@
+PS C:\Users\nikita gupta> & "C:/Users/nikita gupta/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe" "c:/Users/nikita gupta/Documents/CodeAlpha_StockPortfolioTracker.py"
+===== Stock Portfolio Tracker =====
+Available Stocks:
+AAPL: $180
+TSLA: $250
+GOOGL: $140
+MSFT: $320
+AMZN: $150
+
+Enter the number of different stocks you want to buy: 2
+
+Enter Stock 1 Name: AAPL
+Enter Quantity: 5
+
+Enter Stock 2 Name: TSLA
+Enter Quantity: 3
+
+===== Portfolio Summary =====
+AAPL - Quantity: 5, Price: $180, Value: $900
+TSLA - Quantity: 3, Price: $250, Value: $750
+
+Total Investment Value = $1650
+
+Portfolio has been saved successfully in 'portfolio.txt'
+PS C:\Users\nikita gupta> portfolio.txt
